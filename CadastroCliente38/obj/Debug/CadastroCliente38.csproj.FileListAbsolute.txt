@@ -1,0 +1,10 @@
+C:\Users\luis_\source\repos\CadastroCliente38\CadastroCliente38\bin\Debug\CadastroCliente38.exe.config
+C:\Users\luis_\source\repos\CadastroCliente38\CadastroCliente38\bin\Debug\CadastroCliente38.exe
+C:\Users\luis_\source\repos\CadastroCliente38\CadastroCliente38\bin\Debug\CadastroCliente38.pdb
+C:\Users\luis_\source\repos\CadastroCliente38\CadastroCliente38\obj\Debug\CadastroCliente38.csproj.AssemblyReference.cache
+C:\Users\luis_\source\repos\CadastroCliente38\CadastroCliente38\obj\Debug\CadastroCliente38.Form1.resources
+C:\Users\luis_\source\repos\CadastroCliente38\CadastroCliente38\obj\Debug\CadastroCliente38.Properties.Resources.resources
+C:\Users\luis_\source\repos\CadastroCliente38\CadastroCliente38\obj\Debug\CadastroCliente38.csproj.GenerateResource.cache
+C:\Users\luis_\source\repos\CadastroCliente38\CadastroCliente38\obj\Debug\CadastroCliente38.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\CadastroCliente38\CadastroCliente38\obj\Debug\CadastroCliente38.exe
+C:\Users\luis_\source\repos\CadastroCliente38\CadastroCliente38\obj\Debug\CadastroCliente38.pdb
